@@ -11,7 +11,7 @@ Do not copy everything blindly!
 
 ## Using this repo
 
-For a development work, you need to run two commands at the same time:
+For a development work, you need to run two commands at the same time:::
 
 1. `npm run server`: Runs Node server
 2. `npm run dev`: Compiles and serves statically generated site
